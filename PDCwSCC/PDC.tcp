@@ -3,10 +3,10 @@ Type=TeXnicCenterProjectInformation
 Version=4
 
 [ProjectInfo]
-MainFile=PDCwSCC.tex
+MainFile=PDC.tex
 UseBibTeX=0
 UseMakeIndex=0
-ActiveProfile=LuaLaTeX ⇨ PDF
+ActiveProfile=LaTeX ⇨ PDF
 ProjectLanguage=en
 ProjectDialect=US
 
