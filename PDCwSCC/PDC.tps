@@ -14,10 +14,10 @@ NormalPos.top=26
 NormalPos.right=922
 NormalPos.bottom=717
 Class=LaTeXView
-Document=PDCProcedures.tex
+Document=PDCObjectives.tex
 
 [Frame0_View0,0]
-TopLine=9
+TopLine=0
 Cursor=13
 
 [Frame1]
@@ -32,11 +32,11 @@ NormalPos.top=26
 NormalPos.right=922
 NormalPos.bottom=717
 Class=LaTeXView
-Document=PDC.tex
+Document=PDCProcedures.tex
 
 [Frame1_View0,0]
-TopLine=0
-Cursor=0
+TopLine=9
+Cursor=13
 
 [Frame2]
 Flags=0
@@ -50,11 +50,11 @@ NormalPos.top=26
 NormalPos.right=922
 NormalPos.bottom=717
 Class=LaTeXView
-Document=SCCObservations.tex
+Document=PDC.tex
 
 [Frame2_View0,0]
 TopLine=0
-Cursor=837
+Cursor=0
 
 [Frame3]
 Flags=0
@@ -68,11 +68,11 @@ NormalPos.top=26
 NormalPos.right=922
 NormalPos.bottom=717
 Class=LaTeXView
-Document=SCCObjectives.tex
+Document=SCCObservations.tex
 
 [Frame3_View0,0]
 TopLine=0
-Cursor=13
+Cursor=837
 
 [Frame4]
 Flags=0
@@ -86,11 +86,11 @@ NormalPos.top=26
 NormalPos.right=922
 NormalPos.bottom=717
 Class=LaTeXView
-Document=Results.tex
+Document=SCCObjectives.tex
 
 [Frame4_View0,0]
 TopLine=0
-Cursor=1234
+Cursor=13
 
 [Frame5]
 Flags=0
@@ -104,11 +104,11 @@ NormalPos.top=26
 NormalPos.right=922
 NormalPos.bottom=717
 Class=LaTeXView
-Document=PDCObservations.tex
+Document=Results.tex
 
 [Frame5_View0,0]
 TopLine=0
-Cursor=590
+Cursor=1169
 
 [Frame6]
 Flags=0
@@ -122,13 +122,13 @@ NormalPos.top=26
 NormalPos.right=922
 NormalPos.bottom=717
 Class=LaTeXView
-Document=PDCObjectives.tex
+Document=PDCObservations.tex
 
 [Frame6_View0,0]
 TopLine=0
-Cursor=13
+Cursor=590
 
 [SessionInfo]
 FrameCount=7
-ActiveFrame=4
+ActiveFrame=5
 
