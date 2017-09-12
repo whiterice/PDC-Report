@@ -11,8 +11,8 @@ MaxPos.x=-1
 MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
-NormalPos.right=922
-NormalPos.bottom=717
+NormalPos.right=1562
+NormalPos.bottom=733
 Class=LaTeXView
 Document=PDCObjectives.tex
 
@@ -29,13 +29,13 @@ MaxPos.x=-1
 MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
-NormalPos.right=922
-NormalPos.bottom=717
+NormalPos.right=1562
+NormalPos.bottom=733
 Class=LaTeXView
 Document=PDCProcedures.tex
 
 [Frame1_View0,0]
-TopLine=9
+TopLine=0
 Cursor=13
 
 [Frame2]
@@ -47,8 +47,8 @@ MaxPos.x=-1
 MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
-NormalPos.right=922
-NormalPos.bottom=717
+NormalPos.right=1562
+NormalPos.bottom=733
 Class=LaTeXView
 Document=PDC.tex
 
@@ -65,8 +65,8 @@ MaxPos.x=-1
 MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
-NormalPos.right=922
-NormalPos.bottom=717
+NormalPos.right=1562
+NormalPos.bottom=733
 Class=LaTeXView
 Document=SCCObservations.tex
 
@@ -83,8 +83,8 @@ MaxPos.x=-1
 MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
-NormalPos.right=922
-NormalPos.bottom=717
+NormalPos.right=1562
+NormalPos.bottom=733
 Class=LaTeXView
 Document=SCCObjectives.tex
 
@@ -101,8 +101,8 @@ MaxPos.x=-1
 MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
-NormalPos.right=922
-NormalPos.bottom=717
+NormalPos.right=1562
+NormalPos.bottom=733
 Class=LaTeXView
 Document=Results.tex
 
@@ -119,8 +119,8 @@ MaxPos.x=-1
 MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
-NormalPos.right=922
-NormalPos.bottom=717
+NormalPos.right=1562
+NormalPos.bottom=733
 Class=LaTeXView
 Document=PDCObservations.tex
 
@@ -130,5 +130,5 @@ Cursor=590
 
 [SessionInfo]
 FrameCount=7
-ActiveFrame=5
+ActiveFrame=1
 
